@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Márk Poór's personal website"
+author: "Márk Poór"
+description: "Márk Poór"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
