@@ -9,11 +9,11 @@ My research focuses primarily on mathematical logic  and its connections with ot
 
 </head>
 <body>
-    <h1>My Favorite Fruits</h1>
+    <h1>Papers</h1>
     <ul>
-        <li>Apples</li>
-        <li>Bananas</li>
-        <li>Oranges</li>
-        <li>Grapes</li>
+        <li>A</li>
+        <li>B</li>
+        <li>O</li>
+        <li>G</li>
     </ul>
 </body>
