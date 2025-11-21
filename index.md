@@ -11,6 +11,10 @@ My research focuses primarily on mathematical logic  and its connections with ot
 <body>
     <h1>Papers</h1>
     <ul>
+		<li> (with  M. Elekes, D. Nagy, Z. Vidnyánszky) <a href="https://arxiv.org/abs/1806.11524" > A Haar meager set that is not strongly Haar meager </a>., Israel J. Math. 235, pp 91-109., 2020. </li>
+		<li>  <a href="https://arxiv.org/abs/1610.00614"> Answer to a question of Ros\l{}anowski and Shelah</a>.,  J. Math. Log. 21. no. 3, 2021.
+		<li>  (with M. Elekes) <a href="https://arxiv.org/abs/1908.05776"> Cardinal invariants of Haar null and Haar meager sets </a>., P. Roy. Soc. Edinb. A. 
+	 151, no. 5,  pp. 1568 - 1594. 2021.</li>
 		<li>  <a href="https://arxiv.org/abs/1706.01409"> On the spectra of cardinalities of branches of Kurepa trees. </a>,   Arch. Math. Log. 60, no. 7, pp. 927-966.,  2021. </li>
 		<li> (with R. Balka, M. Elekes, V. Kiss) <a href="https://arxiv.org/abs/2009.14106"> Singularity of maps of several variables and a problem of Mycielski concerning prevalent homeomorphisms </a>,  Adv. Math. 385, 2021. </li>
 		<li> (with S. Shelah) <a href="https://arxiv.org/abs/2003.01272"> Characterizing the spectra of cardinalities of branches of Kurepa trees </a>.,   Pac. J. Math.  311. no. 2, pp. 423–453. 2021. </li>
