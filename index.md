@@ -31,5 +31,4 @@ My research focuses primarily on mathematical logic  and its connections with ot
         <li>     (with A. Rinot)  <a href="https://blog.assafrinot.com/?p=4949"> A Shelah group in ZFC </a>,  Forum Math. Pi. Vol. 13. e13. 2025 </li>
         <li> (with S. Shelah) Universal graphs at the successors of small singular cardinals.,  in preparation </li>
         <li>  (with S. Solecki) <a href="https://mark-poor.github.io/papers/homeos.pdf">  Projective Fra\"issé limits and homeomorphisms of the pseudoarc </a>.,  submitted  </li>
-    </ul>
-</body>
+   
