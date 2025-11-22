@@ -11,6 +11,8 @@ My research focuses primarily on mathematical logic  and its connections with ot
 <body>
     <h1>Papers</h1>
     <ul>
+		<li> <a href ="https://arxiv.org/abs/1706.01164" > Small-large subgroups of locally compact Abelian Polish groups </a>.  J.
+		Math. Anal. Appl. 478, no. 2, pp 345-356. 2019. </li>
 		<li> (with  M. Elekes, D. Nagy, Z. Vidnyánszky) <a href="https://arxiv.org/abs/1806.11524" > A Haar meager set that is not strongly Haar meager </a>., Israel J. Math. 235, pp 91-109., 2020. </li>
 		<li>  <a href="https://arxiv.org/abs/1610.00614"> Answer to a question of Ros\l{}anowski and Shelah</a>.,  J. Math. Log. 21. no. 3, 2021.
 		<li>  (with M. Elekes) <a href="https://arxiv.org/abs/1908.05776"> Cardinal invariants of Haar null and Haar meager sets </a>., P. Roy. Soc. Edinb. A. 
